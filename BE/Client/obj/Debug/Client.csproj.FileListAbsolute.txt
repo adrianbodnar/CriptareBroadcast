@@ -1,0 +1,12 @@
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.Form1.resources
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\bin\Debug\Client.exe.config
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\bin\Debug\Client.exe
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\bin\Debug\Client.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\bin\Debug\StreamLibrary.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\bin\Debug\StreamLibrary.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.exe
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.Login.resources

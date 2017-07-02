@@ -1,0 +1,12 @@
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\ServerBE.exe.config
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\ServerBE.exe
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\ServerBE.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.Properties.Resources.resources
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.csproj.GenerateResource.Cache
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.exe
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.Streaming.resources
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\StreamLibrary.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\StreamLibrary.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.Login.resources

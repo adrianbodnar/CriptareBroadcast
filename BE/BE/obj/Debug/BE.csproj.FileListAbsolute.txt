@@ -1,0 +1,4 @@
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\BE\bin\Debug\BE.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\BE\bin\Debug\BE.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\BE\obj\Debug\BE.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\BE\obj\Debug\BE.pdb

@@ -1,0 +1,14 @@
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Server.exe.config
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Server.exe
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Server.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Simplify.Resources.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\StreamLibrary.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\StreamLibrary.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Simplify.Resources.xml
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\obj\Debug\Server.exe
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\obj\Debug\Server.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\BE.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Server\bin\Debug\BE.pdb

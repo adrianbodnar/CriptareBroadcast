@@ -1,0 +1,5 @@
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\bin\Debug\StreamLibrary.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\bin\Debug\StreamLibrary.pdb
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\obj\Debug\StreamLibrary.dll
+C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\obj\Debug\StreamLibrary.pdb
