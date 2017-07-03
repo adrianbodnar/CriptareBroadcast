@@ -7,6 +7,7 @@ using System.Numerics;
 using System.Security.Cryptography;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
+using System.Runtime.Serialization;
 
 namespace BE
 {
@@ -61,7 +62,7 @@ namespace BE
 
             }
             cryptotext.VK = VK;
-            cryptotext.C = cry;
+            cryptotext.Ci = cry;
             using (var RSA = new RSACryptoServiceProvider())
             {
                 BinaryFormatter bf = new BinaryFormatter();
@@ -81,6 +82,25 @@ namespace BE
                 bf1.Serialize(ms, cryptotext);
                 rezult = ms.ToArray();
             }
+            return rezult;
+        }
+        public byte[] Decrypt(byte[] C, RSAParameters ski) {
+            byte[] rezult=null;
+
+            BinaryFormatter formatter = new BinaryFormatter();
+            MemoryStream ms = new MemoryStream(C);
+            Cryptotext deserializedCryptotext = (Cryptotext)formatter.Deserialize(ms);
+
+            for (int i = 0; i < deserializedCryptotext.Ci.Count; i++)
+            {
+                
+                using (var RSA = new RSACryptoServiceProvider())
+                {
+                    RSA.ImportParameters(ski);
+                    byte[] M = RSA.Decrypt(deserializedCryptotext.Ci[i], false);
+                }
+            }
+
             return rezult;
         }
     }

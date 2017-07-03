@@ -10,3 +10,15 @@ C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\S
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\StreamLibrary.dll
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\bin\Debug\StreamLibrary.pdb
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\ServerBE\obj\Debug\ServerBE.Login.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\bin\Debug\ServerBE.exe.config
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.exe
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\bin\Debug\ServerBE.exe
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\bin\Debug\ServerBE.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\bin\Debug\StreamLibrary.dll
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\bin\Debug\StreamLibrary.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.csprojResolveAssemblyReference.cache
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.Login.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.Properties.Resources.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.Streaming.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\ServerBE\obj\Debug\ServerBE.csproj.GenerateResource.Cache
