@@ -10,3 +10,15 @@ C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\C
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.exe
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.pdb
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\Client\obj\Debug\Client.Login.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\bin\Debug\Client.exe.config
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.exe
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\bin\Debug\Client.exe
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\bin\Debug\Client.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\bin\Debug\StreamLibrary.dll
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\bin\Debug\StreamLibrary.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.Form1.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.Login.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\Client\obj\Debug\Client.csproj.GenerateResource.Cache

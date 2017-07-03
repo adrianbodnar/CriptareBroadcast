@@ -3,3 +3,9 @@ C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\S
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\bin\Debug\System.Drawing.Primitives.dll
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\obj\Debug\StreamLibrary.dll
 C:\Users\Adrian\documents\visual studio 2015\Projects\WindowsFormsApplication1\StreamLibrary\obj\Debug\StreamLibrary.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\StreamLibrary\bin\Debug\StreamLibrary.dll
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\StreamLibrary\bin\Debug\StreamLibrary.pdb
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\StreamLibrary\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\StreamLibrary\obj\Debug\StreamLibrary.csprojResolveAssemblyReference.cache
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\StreamLibrary\obj\Debug\StreamLibrary.dll
+C:\Users\a.bodnar\Desktop\Licenta\CriptareBroadcast\BE\StreamLibrary\obj\Debug\StreamLibrary.pdb

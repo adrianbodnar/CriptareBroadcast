@@ -8,7 +8,7 @@ namespace BE
     public class Cryptotext
     {
         public RSAParameters VK { get; set; }
-        public List<byte[]> C = new List<byte[]>();
+        public List<byte[]> Ci = new List<byte[]>();
         public byte[] signedData{ get; set; }
     }
 }
